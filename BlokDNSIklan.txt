@@ -1,1 +1,8 @@
 0.0.0.0 5starsbet.com
+0.0.0.0 103.10.200.48
+0.0.0.0 1x2018.net
+0.0.0.0 animeindo.chatango.com
+0.0.0.0 cash303.info
+0.0.0.0 clc.la
+0.0.0.0 linktrack.info
+0.0.0.0 pokergolden.net
